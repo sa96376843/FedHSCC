@@ -3,7 +3,6 @@ This Repo contains the **official implementation** of the following paper:
 
 |Venue|Method|Paper Title|
 |----|-----|-----|
-|ICLR'23|FedDecorr|[Towards Understanding and Mitigating Dimensional Collapse in Heterogeneous Federated Learning](https://arxiv.org/abs/2210.00226)|
 
 and unofficial implementation of the following papers:
 
@@ -19,6 +18,8 @@ and unofficial implementation of the following papers:
 |ICML'22|FedLogitCal|[Federated Learning with Label Distribution Skew via Logits Calibration](https://arxiv.org/abs/2209.00189)|
 |ICML'22/ECCV'22|FedSAM|[Generalized Federated Learning via Sharpness Aware Minimization](https://arxiv.org/pdf/2206.02618.pdf)/[Improving Generalization in Federated Learning by Seeking Flat Minima](https://arxiv.org/abs/2203.11834)|
 |ICLR'23|FedExp|[FedExP: Speeding up Federated Averaging via Extrapolation](https://openreview.net/forum?id=IPrzNbddXV)|
+|ICLR'23|FedDecorr|[Towards Understanding and Mitigating Dimensional Collapse in Heterogeneous Federated Learning](https://arxiv.org/abs/2210.00226)|
+
 
 
 
