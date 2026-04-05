@@ -56,7 +56,7 @@ Some of our code is borrowed following projects: [MOON](https://github.com/Qinbi
 
 ## Modifications from Upstream
 This project is  based on Feddecorr by Yujun Shi.
-Original repository: https://github.com/bytedance/FedDecorr?tab=readme-ov-file
+Original repository: https://github.com/bytedance/FedDecorr.git
 Original license: LICENSE
 We have made the following significant modifications to extend the framework with **HSCC (Hierarchical Sparse Covariance Constraint)** regularization and performance measurement tools.
 
