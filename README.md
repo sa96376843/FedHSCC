@@ -3,7 +3,7 @@ This Repo contains the **official implementation** of the following paper:
 
 |Venue|Method|Paper Title|
 |----|-----|-----|
-
+||FedHSCC|Mitigating Dimensional Collapse in Heterogeneous Federated Learning via Hierarchical Sparse Covariance Constraint|
 and unofficial implementation of the following papers:
 
 |Venue|Method|Paper Title|
