@@ -48,7 +48,7 @@ Experiments on other methods (FedAvgM, FedProx, MOON) and other datasets (CIFAR1
 
 
 # Contact
-Jianhang Feng (222409252001@zust.edu.cn)
+
 
 # Acknowledgement
 Some of our code is borrowed following projects: [MOON](https://github.com/QinbinLi/MOON), [NIID-Bench](https://github.com/Xtra-Computing/NIID-Bench), [SAM(Pytorch)](https://github.com/davda54/sam)
