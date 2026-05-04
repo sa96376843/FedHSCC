@@ -7,7 +7,7 @@
 # Code ported from https://github.com/Xtra-Computing/NIID-Bench/blob/main/experiments.py
 
 # =========================================================================
-# MODIFICATIONS by Jianhang Feng on 2026-04-05
+# MODIFICATIONS on 2026-04-05
 # - Added timing functionality to measure per-round communication time
 # - Integrated FedHSCC loss functions into local training
 # - Added command-line arguments for FedHSCC
